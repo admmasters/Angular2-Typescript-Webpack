@@ -9,6 +9,6 @@ To get up and running simply pull down the project and run:
 
 `npm install`
 
-Then to start hacking run:
+Then to start hacking on a webpack dev server run:
 
 `npm start`
