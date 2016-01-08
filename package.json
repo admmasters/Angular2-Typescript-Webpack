@@ -1,0 +1,25 @@
+{
+  "name": "angular2-typescript-webpack",
+  "version": "1.0.0",
+  "description": "A starter structure for using Webpack with Angular 2 & Typescript",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "author": "Matt Revell",
+  "license": "MIT",
+  "dependencies": {
+    "angular2": "2.0.0-beta.0",
+    "es6-promise": "^3.0.2",
+    "es6-shim": "^0.33.3",
+    "reflect-metadata": "0.1.2",
+    "rxjs": "5.0.0-beta.0",
+    "zone.js": "0.5.10"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^1.7.0",
+    "open-browser-webpack-plugin": "0.0.2",
+    "ts-loader": "^0.7.2",
+    "typescript": "^1.7.3"
+  }
+}
