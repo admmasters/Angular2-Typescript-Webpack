@@ -15,7 +15,7 @@ module.exports = {
     port: 4000,
   },
   resolve: {
-    extensions: ['', '.js', '.ts', 'tsx']
+    extensions: ['', '.js', '.ts', '.tsx']
   },
   module: {
     loaders: [
